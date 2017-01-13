@@ -782,12 +782,26 @@ nav#menu #menu-nav li a:hover {
 .profile-description {
 	margin-bottom: 25px;
 }
+.column-prof {
+	width: 45%;
+	margin-right: -85px;
+}
 
 .image-wrap {
 	position: relative;
 	overflow: hidden;
 	margin-bottom: 25px;
 	cursor: pointer;
+}
+
+.ul-nodots {
+	list-style: none;
+}
+
+.li-larger {
+	font-size: 20px;
+	margin-top: 4px;
+	
 }
 
 .image-wrap img {
