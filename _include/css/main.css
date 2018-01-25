@@ -32,6 +32,28 @@ body{
 	line-height:28px;
 }
 
+.icons {
+	display: flex;
+	flex-direction: column;
+}
+
+li>i {
+	font-size: 100px;
+	margin-bottom: 10px;
+}
+
+.li-icon {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 8px;
+	text-align: center;
+}
+
+.center-flex {
+	display: flex;
+	justify-content: space-around;
+}
 
 a{
 	color:#2aabe2;
@@ -796,6 +818,9 @@ nav#menu #menu-nav li a:hover {
 
 .ul-nodots {
 	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 0;
 }
 
 .li-larger {
@@ -884,7 +909,7 @@ nav#menu #menu-nav li a:hover {
 
 .social-icons li a{
 	color: #FFFFFF;
-	font-size: 16px;
+	font-size: 22px;
 	line-height: 1em;
 	width: 16px;
 	height: 16px;
