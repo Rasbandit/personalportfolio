@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/Rasbandit/personalportfolio/issues"
   },
-  "homepage": "https://github.com/Rasbandit/personalportfolio#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
