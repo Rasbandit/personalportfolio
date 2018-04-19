@@ -1,0 +1,22 @@
+{
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasbandit/personalportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasbandit/personalportfolio/issues"
+  },
+  "homepage": "https://github.com/Rasbandit/personalportfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
